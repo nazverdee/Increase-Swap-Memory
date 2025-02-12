@@ -4,12 +4,14 @@
 
 This project is built with **Bash** commands and is intended for use on **Red Hat Command Line** (RHEL)
 
-Create the Swap File of size 2GB
+### Steps to follow:
 
-Set the correct permissions on the swap file so that only the user who created it can read and write to it:
+- Create the Swap File of size 2GB
 
-Convert the file into swap space using the following command:
+- Set the correct permissions on the swap file so that only the user who created it can read and write to it:
 
-Make the Swap File Persistent by add it to the system configuration file /etc/fstab.
+- Convert the file into swap space using the following command:
 
-Notify the System of the New Swap File using swapon
+- Make the Swap File Persistent by add it to the system configuration file /etc/fstab.
+
+- Notify the System of the New Swap File using swapon
