@@ -25,7 +25,7 @@ ls -lh /swapfile
 echo "----------------------------------------"
 
 # Step 6: Make the Swap File Persistent 
-# For this step check the Modify_stab.vim file
+# For this step check instructions in the Modify_stab.vim file
 
 # Step 7: Notify the System of the New Swap File
 
