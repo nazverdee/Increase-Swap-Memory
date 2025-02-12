@@ -1,6 +1,7 @@
 # Instructions to modify /etc/fstab:
 
-1. Open /etc/fstab in vim (or any text editor):
+1. Open /etc/fstab in vim:
+   
    sudo vim /etc/fstab
 
 2. Press 'i' to enter insert mode.
