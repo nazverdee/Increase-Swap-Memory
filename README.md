@@ -1,5 +1,10 @@
 # Increase-Swap-Memory
 
+#### Language & Environment
+
+This project is built with **Bash** commands and is intended for use on **Red Hat Command Line** (RHEL)
+
+
 Check the Current Swap File Size: 
 
 `ls -lh`
