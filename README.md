@@ -4,7 +4,7 @@
 
 This project is built with **Bash** commands and is intended for use on **Red Hat Command Line** (RHEL)
 
-### Steps to follow:
+#### Steps to follow:
 
 - Create the Swap File of size 2GB
 
